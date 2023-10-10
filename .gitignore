@@ -4,3 +4,7 @@ tsconfig.tsbuildinfo
 !.github/styles/Vocab/
 
 .idea
+
+node_modules
+/dist
+/lib
